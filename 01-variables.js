@@ -31,5 +31,3 @@ var objectsOfValues = {
     age: 30,
     ageAsNumber: ageAsNumber
 }
-
-//ssuu
