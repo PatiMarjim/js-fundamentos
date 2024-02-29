@@ -17,3 +17,11 @@ do {
 //     i++;
 // }
 console.log(`La letra "m" se ha repetido ${timesRepeated} veces`);
+
+var i = 0;
+
+do {
+    // haremos aquí el código
+    // cambiamos el valor inicial al final de cada loop
+    i += 1;
+} while (i >10);
